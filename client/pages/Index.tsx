@@ -82,7 +82,7 @@ export default function Index() {
             <div className="relative">
               <div className="aspect-[4/3] rounded-2xl overflow-hidden bg-muted/20 border border-border/20">
                 <img 
-                  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg81pXcIxq26ENEAilLIMXzS-YIAUu7jiZiiIVY98Qh3-c3MTxeSCJz6Y1r_tQ71LDuqyLE6Rj8uCwSx1o7BZJcz6mT6uhqEe_JqMfi3DY299UxGIcp-Adlo3XAjJIpZqKo0IEkG7FFTIKxDfFrAoAyucOPdrIlmJWtsD3PuL9-WVsBL5wIqCjfl3gbUrM/s320/ChatGPT%20Image%20Aug%2011,%202025,%2011_01_09%20AM.pngD" 
+                  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmo_HGDTbDVWlRf8tkY5Adto569bh1J23kyA9FvBbUQ_rfMeag4jKNzBaeAxePlJuFe-X6F76eNEC0jjm-5Jc2inA3bSbNhXQMYjpCKZuOuxE3G1bv2rnyECtRW4ktuTtHklpKJQQ99XAJD-LKMYwktcIXw9346qmrVg19GfeaJ2o2jkAnyks70mprLJ4/w410-h616/ChatGPT%20Image%20Aug%2011,%202025,%2011_01_09%20AM.png" 
                   alt="Professional consultant helping with visa applications"
                   className="w-full h-full object-cover"
                 />

@@ -78,8 +78,8 @@ export function Footer() {
           <div>
             <h3 className="font-semibold text-foreground mb-4">Contact</h3>
             <div className="space-y-2 text-sm text-muted-foreground">
-              <p>+92 3449 044454</p>
-              <p>ebad52047@gmail.com</p>
+              <p>+92 123456789</p>
+              <p>ebadmahar@gmail.com</p>
               <p>F-6, ISLAMABAD</p>
             </div>
           </div>
